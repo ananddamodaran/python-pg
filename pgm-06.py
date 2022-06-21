@@ -5,7 +5,7 @@ Pgm no : 06
 Created on Tue Jun 21 20:40:52 2022
 Title: Product of two real numbers 
        using input
-@author: anand
+@author: anand.dev
 """
 
 a = float(input('Enter a?'))

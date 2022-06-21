@@ -4,7 +4,7 @@
 Pgm no : 05
 Created on Tue Jun 21 20:38:29 2022
 Title: Print the digits of two digit numbers
-@author: anand
+@author: anand.dev
 """
 number = 45
 ones = number % 10

@@ -4,7 +4,7 @@
 Pgm no : 03
 Created on Tue Jun 21 20:35:07 2022
 Title: Find the area of circle
-@author: anand
+@author: anand.dev
 """
 radius = 20.0
 area = 3.14 * radius * radius
